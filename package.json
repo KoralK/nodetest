@@ -1,9 +1,8 @@
 {
-  "name": "my-github-pages-site",
+  "name": "my-finhub-visualization",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "keywords": [],
@@ -11,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "axios": "^0.21.1"
   }
 }
