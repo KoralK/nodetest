@@ -4,7 +4,7 @@ const path = require('path');
 const app = express();
 const port = process.env.PORT || 3000;
 
-const FINNHUB_API_KEY = 'YOUR_FINNHUB_API_KEY';
+const FINNHUB_API_KEY = 'cndp3i1r01qml3k1me70cndp3i1r01qml3k1me7g';
 
 app.use(express.static(path.join(__dirname)));
 
